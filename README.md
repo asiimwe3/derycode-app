@@ -28,3 +28,12 @@ See `build.sh`.
 
 ---
 Built by DeryCode Technologies, Kyenjojo, Uganda — https://derycode.online
+
+## Store submission pack
+
+- `DeryCode-1.0.0.aab` — Android App Bundle for Google Play (target SDK 36, bundle validated with bundletool)
+- `store/LISTING.md` — name, short and full description, category, data safety answers, content rating answers
+- `store/graphics/icon-512.png` and `store/graphics/feature-graphic-1024x500.png`
+- `store/screenshots/` — four 1080x2590 phone screenshots with captions
+
+Rebuild instructions are in `build.sh`.
